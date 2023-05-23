@@ -1,3 +1,3 @@
-Visit the live site: [longest-word](https://joyful-beignet-335226.netlify.app/)
-
+- Visit the live site: [longest-word](https://longest-word-challenge.netlify.app/)
+- https://longest-word-challenge.netlify.app/
 - solving one of the most common JS coding challenge.
